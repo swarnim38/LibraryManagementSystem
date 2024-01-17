@@ -19,7 +19,7 @@ public class LibraryManagement{
      public LibraryManagement() {
         try {
             // Initialize the database connection
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/library", "root", "swarnim");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/library", "root", "<password>");
         } catch (SQLException e) {
             e.printStackTrace();
         }
