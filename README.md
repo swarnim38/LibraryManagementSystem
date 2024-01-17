@@ -30,9 +30,8 @@ Getting Started:
    10. Delete member information
    11. Update member information
    12. Exit
-
-       
-    Follow the prompts to complete your chosen action.
+   
+ Follow the prompts to complete your chosen action.
     Enter 12 to exit the program.
 
 Example Usage:
@@ -77,4 +76,4 @@ Hardware:
  *   Processor: Intel Core i3 or equivalent
  *   RAM: 4GB or more
  *   Storage space: 10GB or more
- *   Internet connection (optional
+ *   Internet connection (optional)
